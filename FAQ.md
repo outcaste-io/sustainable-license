@@ -1,9 +1,4 @@
-Link: sustainable-license-faq
-Tags: license
-
 # Sustainable License: Frequently Asked Questions
-
-[Sustainable License v1.0](/sustainable-license)
 
 ### 1. Can you summarize what is allowed with the Sustainable License 1.0?
 
