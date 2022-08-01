@@ -37,9 +37,9 @@ project, but also wanted to monetize the project via the currently popular open
 source business models (enterprise features, hosting, etc.), then Sustainable
 License might be a great choice. Two things to consider:
 
-1. Other licenses like SSPL, Elastic prohibit
-others from providing a hosted solution -- Sustainable License has no such
-restrictions. So, others can run hosted services on the software.
+1. Licenses like SSPL, Elastic prohibit others from providing a hosted solution
+   -- Sustainable License has no such restrictions. So, anyone can provide
+   commercial hosted services around the software.
 
 2. All pricing is transparent and coded in the source -- which leaves zero room
    for a sales team to negotiate behind the scenes.
