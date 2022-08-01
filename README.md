@@ -55,3 +55,7 @@ License would allow you to still generate revenue from day 1. But, get the
 amazing benefits of an open and community driven development process, and a fair
 and transparent pricing for all.
 
+## Questions / Suggestions
+
+Please use the GitHub Issues to ask any questions and make suggestions about the
+license.
